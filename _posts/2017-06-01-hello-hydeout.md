@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello Hydeout
+title: GY的博客
 excerpt_separator:  <!--more-->
 ---
 
